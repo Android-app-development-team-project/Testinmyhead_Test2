@@ -39,7 +39,7 @@
 
             <Button
                 android:id="@+id/guessnumber"
-                android:layout_width="206dp"
+                android:layout_width="199dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20sp"
                 android:layout_marginTop="2sp"
@@ -80,7 +80,7 @@
 
             <Button
                 android:id="@+id/nback"
-                android:layout_width="148dp"
+                android:layout_width="143dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20sp"
                 android:layout_marginTop="2sp"
